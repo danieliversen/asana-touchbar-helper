@@ -14,7 +14,7 @@ If you're on a newer Macbook with a Touch Bar and if you use Asana, you might wa
 (Note if you want the video tutorial then see below)
 1. Download the Asana task creation script that will be run from the Touch Bar from [https://www.dropbox.com/s/oybf9al2y281eyr/create-task.workflow?dl=1](https://www.dropbox.com/s/oybf9al2y281eyr/create-task.workflow?dl=1) into your Documents folder
 2. Download the BetterTouchTool Asana button configuration from [https://www.dropbox.com/s/qhmmk0wk8u09k5t/asana-touch-bar-button.bttpreset?dl=1](https://www.dropbox.com/s/qhmmk0wk8u09k5t/asana-touch-bar-button.bttpreset?dl=1)
-3. Download, Install and Open (then close again) BetterTouchTool from [link](https://folivora.ai/)
+3. Download, Install and Open (then close again) BetterTouchTool from [https://folivora.ai](https://folivora.ai)
 4. Create an Asana App API token (view )
 5. Get your Workspace ID by visiting [https://app.asana.com/api/1.0/workspaces](https://app.asana.com/api/1.0/workspaces) (it's a 15 digit ID)
 6. Modify the Apple Automator workflow you downloaded in step 1 and insert your workspace ID and auth ID
