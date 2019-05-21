@@ -12,7 +12,7 @@ If you're on a newer Macbook with a Touch Bar and if you use Asana, you might wa
 
 ## Instructions for installing the Asana Touch Bar Helper
 (Note if you want the video tutorial then see below)
-1. Download the Asana task creation script that will be run from the Touch Bar from [https://www.dropbox.com/s/oybf9al2y281eyr/create-task.workflow?dl=1](https://www.dropbox.com/s/oybf9al2y281eyr/create-task.workflow?dl=1) into your Documents folder
+1. Download the Asana task creation script that will be run from the Touch Bar from [https://www.dropbox.com/s/bfkzn1o3uef2bql/asana-create-task-script.zip?dl=1](https://www.dropbox.com/s/bfkzn1o3uef2bql/asana-create-task-script.zip?dl=1) into your Documents folder
 2. Download the BetterTouchTool Asana button configuration from [https://www.dropbox.com/s/qhmmk0wk8u09k5t/asana-touch-bar-button.bttpreset?dl=1](https://www.dropbox.com/s/qhmmk0wk8u09k5t/asana-touch-bar-button.bttpreset?dl=1)
 3. Download, Install and Open (then close again) BetterTouchTool from [https://folivora.ai](https://folivora.ai)
 4. Create an Asana App API token (view [https://www.youtube.com/watch?v=AubkOn_-VBE](https://www.youtube.com/watch?v=AubkOn_-VBE))
