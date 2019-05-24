@@ -24,4 +24,4 @@ If you're on a newer Macbook with a Touch Bar and if you use Asana, you might wa
 10. You are done!
 
 ## Video instructions for installating the Asana Touch Bar Helper
-- The tutorial is here [https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- The tutorial is here [https://www.youtube.com/watch?v=K4tDfE_i1BQ&feature=youtu.be](https://www.youtube.com/watch?v=K4tDfE_i1BQ&feature=youtu.be)
